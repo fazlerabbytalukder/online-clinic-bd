@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "1. FIND A DOCTOR",
+        "description": "Find your needed doctor. There are no additional costs for using this service.",
+        "img": "https://i.ibb.co/445d4yj/home-3.png"
+    },
+    {
+        "id": 2,
+        "title": "2. VIEW PROFILE",
+        "description": "Search for a doctor or health specialist or enter a particular condition or procedure.",
+        "img": "https://i.ibb.co/FVGtz8C/hpme-2.png"
+    },
+    {
+        "id": 3,
+        "title": "3. BOOK A VISIT",
+        "description": "At any time you can see this side and get the necessary doctor's appointment.",
+        "img": "https://i.ibb.co/XDjHr07/home.png"
+    }
+]

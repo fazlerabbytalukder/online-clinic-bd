@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "serviceName": "CARDIOLOGIST",
+        "img": "https://i.ibb.co/KVQs25V/cardiologist.jpg",
+        "description": "A cardiologist is a medical doctor who studies and treats diseases and conditions of the cardiovascular system. The heart and blood vessels including heart rhythm disorders."
+    },
+    {
+        "id": 2,
+        "serviceName": "EYE SPRCIALIST",
+        "img": "https://i.ibb.co/TvVgDkn/eye-specialist.jpg",
+        "description": "Ophthalmologists are physicians who specialize in the eye and related structures. They perform medical and surgical eye care and also can write prescriptions"
+    },
+    {
+        "id": 3,
+        "serviceName": "CHILD SPRCIALIST",
+        "img": "https://i.ibb.co/vHsWFtv/child-specialist.jpg",
+        "description": "Pediatric doctors specialize in the treatment of children from birth to early adulthood. They provide routine preventive health examinations, and diagnose"
+    },
+    {
+        "id": 4,
+        "serviceName": "CANCER SPRCIALIST",
+        "img": "https://i.ibb.co/Fz4L19D/cancer-specialist.jpg",
+        "description": "Oncology is the study of cancer. An oncologist is a doctor who treats cancer and provides medical care for a person diagnosed with cancer."
+    },
+    {
+        "id": 5,
+        "serviceName": "MEDICINE SPRCIALIST",
+        "img": "https://i.ibb.co/gmtf4f3/medichine-specialist.jpg",
+        "description": "medical doctor, or simply doctor, is a professional who practices medicine, which is concerned with promoting, maintaining or restoring health through the study, diagnosis, prognosis and treatment of disease."
+    },
+    {
+        "id": 6,
+        "serviceName": "DENTAL SPRCIALIST",
+        "img": "https://i.ibb.co/FzwVZN1/dental-specialist.jpg",
+        "description": "A dental visit means being examined by a doctor of oral health capable of Creating treatment plans to maintain or restore the oral health of their "
+    }
+]

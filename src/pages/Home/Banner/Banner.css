@@ -1,0 +1,17 @@
+.banner{
+    background: linear-gradient(0deg, hsla(0, 0%, 100%, 1) 30%, hsla(203, 74%, 94%, 1) 100%);
+}
+
+.sub-heading{
+    color: #FF5952;
+}
+
+.heading{
+    color: #3E4562;
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.slogan{
+    color: #FF5952;
+}

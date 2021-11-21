@@ -1,0 +1,18 @@
+.doctors-heading{
+    color: #3E4562;
+    font-size: 50px;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.doctor-sub-heading{
+    text-align: center;
+    color: #FF5851;
+    margin-top: 80px;
+}
+
+.doctor-heading-details{
+    padding: 0 100px;
+    text-align: center;
+}

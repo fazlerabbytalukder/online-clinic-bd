@@ -1,0 +1,8 @@
+.service-img{
+    border-radius: 15px;
+}
+
+.service-card{
+    border-radius: 15px;
+    background: linear-gradient(180deg, hsla(0, 0%, 100%, 1) 0%, hsla(203, 74%, 94%, 1) 100%);
+}

@@ -1,0 +1,11 @@
+.doctor-img{
+    border-radius: 50%;
+    border: 2px solid #FF5851;
+    height: 100px;
+    width: 100px;
+    margin-top: 15px;
+}
+
+.doctor-name-icon{
+    color: #FF5851;
+}

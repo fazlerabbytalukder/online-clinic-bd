@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "serviceName": "cardiologist",
+        "name": "Ann Coleman",
+        "img": "https://i.ibb.co/CVvxLzK/d1.jpg",
+        "degree": "MBBS, M.S",
+        "location": "United Emirates",
+        "available": "Available Today"
+    },
+    {
+        "id": 2,
+        "serviceName": "Eye Specialist",
+        "name": "Samuel Daniels",
+        "img": "https://i.ibb.co/qp4FnR9/d2.jpg",
+        "degree": "DHMS, RHMP, MSc",
+        "location": "United Kingdom( UK )",
+        "available": "Available Today"
+    },
+    {
+        "id": 3,
+        "serviceName": "Child Specialist",
+        "name": "Flores Emily",
+        "img": "https://i.ibb.co/NWt2n8X/d3.jpg",
+        "degree": "Ph.D, DPT, MS OMPT",
+        "location": "United Emirates",
+        "available": "Not Availablesss"
+    },
+    {
+        "id": 4,
+        "serviceName": "Cancer Specialist",
+        "name": "Flores Emily",
+        "img": "https://i.ibb.co/VwCD1bR/d4.jpg",
+        "degree": "M.A,DHMS, RHMP",
+        "location": "England",
+        "available": "Available Today"
+    }
+]
